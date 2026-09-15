@@ -42,9 +42,7 @@ An interactive HR Analytics Dashboard built with Power BI, analyzing employee at
 ![Attrition](ScreenShots/04_Attrition.png)
 ![Forecasting](ScreenShots/05_Forecasting.png)
 
-## 🔗 Connect
-- LinkedIn: [Your LinkedIn Profile]
-- GitHub: [Your GitHub Profile]
+
 
 ## 🏷️ Tags
 #CodeAlpha #PowerBI #HRAnalytics #DataAnalytics #DataVisualization #Internship
